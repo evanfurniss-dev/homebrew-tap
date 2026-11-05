@@ -3,9 +3,9 @@ require "json"
 class McpCustomerRouter < Formula
   desc "Share separate Glide customer connections across local AI coding apps on macOS"
   homepage "https://github.com/evanfurniss-dev/mcp-customer-router-macos"
-  url "https://github.com/evanfurniss-dev/mcp-customer-router-macos/releases/download/router-v0.3.0/mcp-customer-router-0.3.0.tar.gz"
-  version "0.3.0"
-  sha256 "db7809865c6d4c018a90e96337a4f89bb4f4167fbadf5499405d7ed0debef5f4"
+  url "https://github.com/evanfurniss-dev/mcp-customer-router-macos/releases/download/router-v0.3.1/mcp-customer-router-0.3.1.tar.gz"
+  version "0.3.1"
+  sha256 "5da1c152903220adcf630f485d0754d628d58cd7809996a139c6c7c2c28077a2"
   license "MIT"
 
   depends_on :macos
